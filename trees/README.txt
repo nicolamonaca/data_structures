@@ -1,5 +1,5 @@
 * CONTENT:
+	+ Binary Tree
+	+ First Son - Next Sibling Tree
+	+ Parents Vector Tree
 	+ Graph
-	+ Binary tree
-	+ First Son - Next Sibling tree
-	+ Parents Vector tree
