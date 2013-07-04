@@ -1,4 +1,4 @@
-* CONTENT
+* CONTENT:
 	+ Sorted Array Dictionary
 	+ Halving - Doubling dictionary
 	+ Linked Dictionary
